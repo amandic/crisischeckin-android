@@ -1,5 +1,10 @@
 *.class
-/bin
+bin/
+gen/
+.classpath
+.settings
+.project
+target/
 # Package Files #
 *.jar
 *.war
